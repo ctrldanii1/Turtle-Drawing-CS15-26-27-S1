@@ -61,6 +61,7 @@ right(90)
 forward(20)
 reset()
 
+#star 1
 penup()
 goto(100, 50)
 color("cyan")
@@ -77,7 +78,7 @@ forward(100)
 right(144)
 penup()
 
-
+#star 2
 penup()
 goto(-100, 50)
 color("yellow")
